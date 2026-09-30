@@ -1,0 +1,1 @@
+This workspace file is intentionally available to the agent.

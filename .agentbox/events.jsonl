@@ -1,0 +1,4 @@
+{"timestamp": "2026-09-15T13:00:41+00:00", "operation": "START", "resource": "C:\\Users\\shyam\\Desktop\\TIMEPASS\\AgentBOX\\agent.py", "decision": "ALLOWED", "reason": "Agent started in restricted Docker runtime"}
+{"timestamp": "2026-09-15T13:00:42+00:00", "operation": "STOP", "resource": "C:\\Users\\shyam\\Desktop\\TIMEPASS\\AgentBOX\\agent.py", "decision": "BLOCKED", "reason": "Container exited with code 127"}
+{"timestamp": "2026-09-15T13:01:02+00:00", "operation": "START", "resource": "C:\\Users\\shyam\\Desktop\\TIMEPASS\\AgentBOX\\agent.py", "decision": "ALLOWED", "reason": "Agent started in restricted Docker runtime"}
+{"timestamp": "2026-09-15T13:01:02+00:00", "operation": "STOP", "resource": "C:\\Users\\shyam\\Desktop\\TIMEPASS\\AgentBOX\\agent.py", "decision": "BLOCKED", "reason": "Container exited with code 127"}

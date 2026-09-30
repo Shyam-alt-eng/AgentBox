@@ -1,0 +1,15 @@
+filesystem:
+  read:
+    - /workspace
+  write:
+    - /workspace/output
+
+network:
+  enabled: false
+
+shell:
+  enabled: false
+
+environment:
+  allowed:
+    - APP_MODE
